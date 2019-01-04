@@ -4,11 +4,7 @@
         "details": [
             {
                 "appID": "KG36QAW9DK.com.iappweb.ocj.yy",
-                "paths": ["/deaplink","/wwdc/news/","*"]
-            },
-            {
-                "appID": "ABCD1234.com.apple.wwdc",
-                "paths": [ "*" ]
+                "paths": ["*"]
             }
         ]
     }
